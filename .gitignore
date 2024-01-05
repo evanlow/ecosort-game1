@@ -1,0 +1,11 @@
+# .gitignore
+node_modules/
+Scripts/
+Lib/
+*.log
+.env
+.vscode/
+dist/
+__pycache__/
+*.pyc
+pyvenv.cfg
